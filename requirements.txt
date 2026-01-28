@@ -1,0 +1,11 @@
+numpy
+Pillow
+moviepy<2.0
+faster-whisper
+torch
+yt-dlp
+pytubefix
+mediapipe
+opencv-python
+google-generativeai
+python-dotenv

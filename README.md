@@ -75,4 +75,4 @@ You will be prompted to:
 ## 📜 Credits
 
 *   Original concept by [LikithMeruvu](https://github.com/LikithMeruvu).
-*   Enhancements implemented by Dicky Arya.
+*   Enhancements implemented by [Your Name/Handle].
